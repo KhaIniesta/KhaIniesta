@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Le Minh Kha</h1>
 <h3 align="center">You can call me KhaIniesta:3</h3>
-<img align="right" alt="kotlin gif image" width="400" src="https://cdn.dribbble.com/users/7094769/screenshots/16379061/media/27d863079a1c8955e2664197d600763d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khainiesta&label=Profile%20views&color=0e75b6&style=flat" alt="khainiesta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/khainiesta" target="blank"><img src="https://img.shields.io/twitter/follow/khainiesta?logo=twitter&style=for-the-badge" alt="khainiesta" /></a> </p>
