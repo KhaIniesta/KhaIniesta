@@ -3,7 +3,6 @@
 ![quino-al-mBQIfKlvowM-unsplash](https://github.com/KhaIniesta/KhaIniesta/assets/107934073/f9199073-f135-405f-8ab0-0226075b82a3)
 
 <h1 align="center">Hi 👋, I'm Le Minh Kha</h1>
-<h3 align="center">You can call me KhaIniesta:3</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khainiesta&label=Profile%20views&color=0e75b6&style=flat" alt="khainiesta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/khainiesta" target="blank"><img src="https://img.shields.io/twitter/follow/khainiesta?logo=twitter&style=for-the-badge" alt="khainiesta" /></a> </p>
